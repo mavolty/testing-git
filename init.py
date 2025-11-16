@@ -11,3 +11,5 @@ import os
 from os.path import join as pjoin
 
 print("hello")
+
+print("Hello, world")
